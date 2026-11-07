@@ -27,14 +27,18 @@ A responsive travel website built using HTML5 and CSS3, designed to inspire trav
 ViaNova/
 │
 ├── index.html
+├── swiss-alps.html
+├── bali.html
+├── santorini.html
+├── dubai.html
+├── paris.html
+├── new-york.html
+├── packages.html
 │
 ├── CSS/
 │   └── style.css
 │
 └── images/
-    ├── Destination images
-    ├── Package images
-    └── Other website images
 ```
 
 ## 🚀 Getting Started
